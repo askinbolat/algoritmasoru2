@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\calisma\bin\Debug\net6.0\calisma.exe
+C:\Users\ASUS\Desktop\calisma\bin\Debug\net6.0\calisma.deps.json
+C:\Users\ASUS\Desktop\calisma\bin\Debug\net6.0\calisma.runtimeconfig.json
+C:\Users\ASUS\Desktop\calisma\bin\Debug\net6.0\calisma.dll
+C:\Users\ASUS\Desktop\calisma\bin\Debug\net6.0\calisma.pdb
+C:\Users\ASUS\Desktop\calisma\obj\Debug\net6.0\calisma.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\calisma\obj\Debug\net6.0\calisma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\calisma\obj\Debug\net6.0\calisma.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\calisma\obj\Debug\net6.0\calisma.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\calisma\obj\Debug\net6.0\calisma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\calisma\obj\Debug\net6.0\calisma.dll
+C:\Users\ASUS\Desktop\calisma\obj\Debug\net6.0\refint\calisma.dll
+C:\Users\ASUS\Desktop\calisma\obj\Debug\net6.0\calisma.pdb
+C:\Users\ASUS\Desktop\calisma\obj\Debug\net6.0\calisma.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\calisma\obj\Debug\net6.0\ref\calisma.dll
